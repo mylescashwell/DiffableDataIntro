@@ -8,4 +8,4 @@ Data is passed between the SwiftUI view & the UIKit ViewController through the u
 This project was built in an MVVM architecture.
 
 # Screenshots
-![IMG_2238](https://user-images.githubusercontent.com/62522804/133344132-3616ab96-7db9-450d-9ac5-3815afe589c7.jpg)
+![IMG_2239](https://user-images.githubusercontent.com/62522804/133344286-f6fc87e8-eee4-48a8-8fea-e774554893b0.jpg)
