@@ -11,3 +11,6 @@ This project showcases the use of UIViewControllerRepresentable, bridging the ga
 Data is passed between the SwiftUI view & the UIKit ViewController through the use of UIHostingController.
 
 This project was built in an MVVM architecture.
+
+# External Libraries
+This project includes LBTA's LBTATools Swift Package Dependancy (v1.0.17) 
